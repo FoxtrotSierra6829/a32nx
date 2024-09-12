@@ -35,6 +35,8 @@
 !CMakeLists.txt
 
 # Project folders
+!large-files
+large-files/node_modules
 
 /fbw-a32nx/*
 /fbw-a32nx/.env.local
